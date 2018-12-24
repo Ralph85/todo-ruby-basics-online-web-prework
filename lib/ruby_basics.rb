@@ -1,13 +1,13 @@
 def division(10, 5)
-2 
+2
 end
 
 def assign_variable("Ralph")
-Ralph  
+Ralph
 end
 
 def argue
-  
+
 end
 
 def greeting(Mike)
